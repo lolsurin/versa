@@ -54,7 +54,7 @@ Make sure you have the following installed on your system:
     ```sh
     npm start
     ```
-    ![alt text](output.gif)
+    ![alt text](./assets/output.gif)
 
 2. The output will be saved to output.json in the project directory.<br>
     <u>**Note:**</u> <br>
