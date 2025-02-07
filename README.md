@@ -17,7 +17,7 @@ Make sure you have the following installed on your system:
    git clone https://github.com/lolsurin/versa.git
    cd versa
 
-2. Install dependencies by running thre command:
+2. Install dependencies by running this command:
     ```sh 
     npm install
 
