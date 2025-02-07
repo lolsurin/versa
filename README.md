@@ -19,7 +19,7 @@ Make sure you have the following installed on your system:
 
 2. Install dependencies by running this command:
     ```sh 
-    npm install
+    npm install typescript @types/node --save-dev
 
 3. Compile the Typescript:
     ```sh 
