@@ -2,12 +2,12 @@
   "name": "versa",
   "version": "1.0.0",
   "description": "",
-  "main": "dist/index.js",
+  "main": "./dist/index.js",
   "scripts": {
     "start": "node dist/index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "Surin Pubalan",
   "license": "ISC"
 }
